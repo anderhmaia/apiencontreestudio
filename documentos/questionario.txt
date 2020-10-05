@@ -1,0 +1,16 @@
+Allan Cezar, Anderson Maia e Vinicius Sanguino
+
+npm init -y
+R: Serve pra criar e inicializar o projeto.
+
+package.json
+R: É o arquivo que contém as configurações, dependências de todo o projeto.
+
+npm install express
+R: É com esse comando que são realizadas as comunicações http. Instalado um framework.
+
+npm install - save-dev nodemon
+R: Mostram as alterações em tempo real.
+
+npm run dev
+R: Comando que faz rodar o projeto.

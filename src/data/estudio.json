@@ -1,0 +1,15 @@
+[{
+    "guidestudio" : "1",
+    "endereco" : "rua Jucelino",
+    "numero" : "1928",
+    "bairro" : "Boqueirão",
+    "cidade" : "Curitiba"
+},
+{
+    "guidestudio" : "2",
+    "endereco" : "rua XV de Novembro",
+    "numero" : "50",
+    "bairro" : "Centro",
+    "cidade" : "Curitiba",
+    "image" : "url"
+}]
